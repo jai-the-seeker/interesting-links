@@ -8,3 +8,5 @@
 ### youtube
 * <https://www.youtube.com/watch?v=9ULzZA70Dzg>
 * <https://www.youtube.com/watch?v=iXvvQ5XML7g>
+### books
+* <https://github.com/AllenMattson/VBA-and-Excel-Books-and-PDFs/blob/master/Writing%20Excel%20Macros%20with%20VBA%202nd%20Ed%202002.pdf>
