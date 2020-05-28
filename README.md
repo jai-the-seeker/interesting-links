@@ -6,6 +6,7 @@
 * <https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/analysis-suspicious-very-hidden-formula-on-excel-4-0-macro-sheet>
 
 * <https://www.decalage.info/files/eu-19-Lagadec-Advanced-VBA-Macros-Attack-And-Defence.pdf>
+* <https://d13ot9o61jdzpp.cloudfront.net/files/Excel%204.0%20Macro%20Functions%20Reference.pdf>
 
 ### youtube
 * <https://www.youtube.com/watch?v=9ULzZA70Dzg>
