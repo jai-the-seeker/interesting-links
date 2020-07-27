@@ -17,6 +17,8 @@
 ## Salsa Tools
 * <https://github.com/Hackplayers/Salsa-tools>
 
+## LOL Binaries
+* <https://lolbas-project.github.io/>
 ## LOLBAS
 * <https://github.com/LOLBAS-Project/LOLBAS>
 
