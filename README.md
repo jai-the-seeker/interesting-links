@@ -8,6 +8,18 @@
 * <https://www.decalage.info/files/eu-19-Lagadec-Advanced-VBA-Macros-Attack-And-Defence.pdf>
 * <https://d13ot9o61jdzpp.cloudfront.net/files/Excel%204.0%20Macro%20Functions%20Reference.pdf>
 
+## Github repos
+* <https://github.com/Kudaes/LOLBITS/blob/master/LOLBITS/LOLBITS/Jobs.cs>
+
+## BITS
+* <https://github.com/microsoft/Windows-classic-samples/tree/master/Samples/BacgroundIntelligenceTransferServicePolicy>
+
+## Salsa Tools
+* <https://github.com/Hackplayers/Salsa-tools>
+
+## LOLBAS
+* <https://github.com/LOLBAS-Project/LOLBAS>
+
 ### youtube
 * <https://www.youtube.com/watch?v=9ULzZA70Dzg>
 * <https://www.youtube.com/watch?v=iXvvQ5XML7g>
