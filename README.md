@@ -21,6 +21,8 @@
 * <https://lolbas-project.github.io/>
 ## LOLBAS
 * <https://github.com/LOLBAS-Project/LOLBAS>
+## Eternal Blue
+* <https://github.com/bhassani/EternalBlueC>
 
 ### youtube
 * <https://www.youtube.com/watch?v=9ULzZA70Dzg>
